@@ -1,6 +1,5 @@
 ## GoF 주요 디자인 패턴 학습
 
----
 1. 전략 (Strategy) 패턴
 2. 템플릿 메서드 (Template Method) 패턴
 3. 상태 (State) 패턴 
